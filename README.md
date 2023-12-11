@@ -5,12 +5,12 @@
 
 - 🌱 I’m currently learning **web technology**
 
-- 📝 I regularly write articles on 
+- 📝 I regularly write articles on [Cynthia's Blog](https://nextjs-notion-starter-kit-eight-pearl.vercel.app/)
 
 - 📫 How to reach me **sl10066116@gmail.com**
 
 
-<!-- - 📓 CakeResume：https://www.cakeresume.com/wei-wei-e8a62e -->
+- 📓 CakeResume：https://www.cakeresume.com/s--yixu0WFql39cpWmEL4363Q--/sl10066116
 
 
 <h2 align="center">⌨️ Now I Code With:</h2>
