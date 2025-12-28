@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Jiun Jie Lin  <br><br> <img src="https://komarev.com/ghpvc/?username=JiunJieLin&style=for-the-badge"> </h1>
+<h1 align="center">Hi 👋, I'm Ginger Lin  <br><br> <img src="https://komarev.com/ghpvc/?username=JiunJieLin&style=for-the-badge"> </h1>
 
 - 🔭 I’m currently working on [ModernEat Project](https://modern-eat-react.vercel.app/)
 
