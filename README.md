@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **web technology**
 
-- 📝 I regularly write articles on [Cynthia's Blog](https://nextjs-notion-starter-kit-eight-pearl.vercel.app/)
+- 📝 I regularly write articles on [Ginger's Blog](https://nextjs-notion-starter-kit-eight-pearl.vercel.app/)
 
 - 📫 How to reach me **sl10066116@gmail.com**
 
